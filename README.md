@@ -1,6 +1,8 @@
-# NodeJS Portfolio Repository
+# Repositories Portfolio API
 
-Project developed proposal as a challenge by the instructor to memorize the course content.
+NodeJS project proposal as a challenge by the instructor during the Rocketseat GoStack course to memorize the content.
+
+This is the API to support a project that will manage repositories to create a developer portfolio.
 
 ## What I learned or did in this project?
 
